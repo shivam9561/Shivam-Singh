@@ -15,7 +15,7 @@ My Personal Repository
 
 - 📫 How to reach me **singhshivam5171@gmail.com**
 
-- ⚡ Fun fact **I think I am Less Talkative.**
+- ⚡ Fun fact **Less Talkative.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
