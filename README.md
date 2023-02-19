@@ -7,9 +7,9 @@ My Personal Repository
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam9561&label=Profile%20views&color=0e75b6&style=flat" alt="shivam9561" /> </p>
 
-- 🔭 I’m currently working on **Django Applications.**
+- 🔭 I’m currently working on **Machine Learning Works.**
 
-- 🌱 I’m currently learning **Django, Seaborn, Pandas, Pytorch, TensorFlow.**
+- 🌱 I’m currently learning **Concepts of ML,Seaborn, Pytorch, TensorFlow,etc**
 
 - 💬 Ask me about **Python, HTML, CSS, JS.**
 
