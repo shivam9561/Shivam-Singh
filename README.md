@@ -9,9 +9,9 @@ My Personal Repository
 
 - 🔭 I’m currently working on **Machine Learning.**
 
-- 🌱 I’m currently learning **Concepts of ML,Seaborn, Pytorch, TensorFlow,etc**
+- 🌱 I’m currently learning **Concepts of ML,AI, Pytorch, TensorFlow,etc**
 
-- 💬 Ask me about **Python, HTML, CSS, JS.**
+- 💬 Ask me about **Python, HTML, CSS, JS, Matplotlib, Numpy, Scikit-learn, Scipy**
 
 - 📫 How to reach me **singhshivam5171@gmail.com**
 
